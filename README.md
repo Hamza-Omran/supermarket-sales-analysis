@@ -18,6 +18,7 @@ supermarket-sales-analysis/
 ├── supermarket_sales.db                # SQLite database
 │
 ├── supermarket_analysis.ipynb          # Main analysis notebook
+├── Dashboard.pbix                      # Main power bi dashboard
 │
 ├── README.md                           # Project documentation
 └── requirements.txt                    # Package dependencies
